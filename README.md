@@ -22,10 +22,6 @@
   </a>
 </div>
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NiHaluKnow&theme=dark&row=1&column=6" alt="GitHub Trophies" />
-</div>
 
 ## 📈 Contribution Graph
 <div align="center">
