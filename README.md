@@ -1,5 +1,12 @@
-# Hi there, I'm Nihal 👋
-Welcome to my GitHub profile!
+<div align="center">
+  <h1>👋 Hi there, I'm Nihal</h1>
+  <p>Welcome to my GitHub profile!</p>
+  
+  <!-- Profile Views Badge -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=arafatrahman216&color=blue&style=for-the-badge" alt="Profile Views" />
+  </p>
+</div>
 
 ## Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=NiHaluKnow&color=blue)
