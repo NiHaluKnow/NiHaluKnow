@@ -15,3 +15,8 @@ Welcome to my GitHub profile!
 
 ## Contribution Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NiHaluKnow&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+## Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
