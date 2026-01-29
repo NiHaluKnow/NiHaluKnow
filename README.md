@@ -8,11 +8,20 @@
   </p>
 </div>
 
-## Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=NiHaluKnow&color=blue)
 
-## GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=NiHaluKnow&theme=dark)](https://git.io/streak-stats)
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arafatrahman216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatrahman216&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+</div>
+
+
+### 🔥 GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafatrahman216&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 
 ## Contribution Graph
