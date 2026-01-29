@@ -4,25 +4,27 @@
   
   <!-- Profile Views Badge -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=arafatrahman216&color=blue&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=NiHaluKnow&color=blue&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
 
-
 ### 📊 GitHub Statistics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arafatrahman216&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arafatrahman216&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NiHaluKnow&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiHaluKnow&theme=github_dark" alt="Top Languages" />
 </div>
-
 
 ### 🔥 GitHub Streak
-
 <div align="center">
-  <[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=NiHaluKnow&theme=dark)](https://git.io/streak-stats)>
+  <img src="https://streak-stats.demolab.com?user=NiHaluKnow&theme=dark" alt="GitHub Streak" />
 </div>
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NiHaluKnow&theme=dark" alt="GitHub Trophies" />
+</div>
 
-## Contribution Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NiHaluKnow&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NiHaluKnow&theme=react-dark" alt="Activity Graph" />
+</div>
