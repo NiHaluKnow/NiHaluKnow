@@ -14,10 +14,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiHaluKnow&theme=github_dark" alt="Top Languages" />
 </div>
 
-### 🔥 GitHub Streak
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=NiHaluKnow&theme=dark" alt="GitHub Streak" />
-</div>
+## GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=NiHaluKnow&theme=dark)](https://git.io/streak-stats)
 
 ### 🏆 GitHub Trophies
 <div align="center">
