@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm [Nihal] 👋
 
-<!--
-**NiHaluKnow/NiHaluKnow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME)
+
+## GitHub Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+## GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME)](https://github.com/ryo-ma/github-profile-trophies)
+
+## Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME)](https://github.com/ashutosh00710/github-readme-activity-graph)
