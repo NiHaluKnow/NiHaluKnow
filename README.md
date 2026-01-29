@@ -2,21 +2,17 @@
 Welcome to my GitHub profile!
 
 ## GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NiHaluKnow&theme=dark)
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NiHaluKnow&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiHaluKnow&theme=dark)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NiHaluKnow&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ## GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=NiHaluKnow&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=NiHaluKnow&theme=dark)](https://git.io/streak-stats)
 
 ## GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=NiHaluKnow&theme=dark)](https://github.com/ryo-ma/github-profile-trophies)
 
+
 ## Contribution Graph
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NiHaluKnow&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-## Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
