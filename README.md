@@ -20,7 +20,7 @@
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arafatrahman216&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=NiHaluKnow&theme=dark)](https://git.io/streak-stats)>
 </div>
 
 
